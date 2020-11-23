@@ -1,0 +1,4313 @@
+{
+ "date": [
+  {
+   "name": "Saturday, May 23, 2015",
+   "home": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.91",
+     "score_url": "https://understat.com/match/5186"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/5187"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.11",
+     "score_url": "https://understat.com/match/5188"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.59",
+     "score_url": "https://understat.com/match/5189"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.89",
+     "score_url": "https://understat.com/match/5190"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.33",
+     "score_url": "https://understat.com/match/5191"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.34",
+     "score_url": "https://understat.com/match/5192"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.90",
+     "score_url": "https://understat.com/match/5193"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.54",
+     "score_url": "https://understat.com/match/5194"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "2.06",
+     "score_url": "https://understat.com/match/5186"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/5187"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/5188"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/5189"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.49",
+     "score_url": "https://understat.com/match/5190"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/5191"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.33",
+     "score_url": "https://understat.com/match/5192"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.96",
+     "score_url": "https://understat.com/match/5193"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "2.43",
+     "score_url": "https://understat.com/match/5194"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, May 16, 2015",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.05",
+     "score_url": "https://understat.com/match/5177"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.17",
+     "score_url": "https://understat.com/match/5178"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.66",
+     "score_url": "https://understat.com/match/5179"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5180"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.68",
+     "score_url": "https://understat.com/match/5181"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/5182"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.08",
+     "score_url": "https://understat.com/match/5183"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "2.50",
+     "score_url": "https://understat.com/match/5184"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/5185"
+    }
+   ],
+   "away": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.87",
+     "score_url": "https://understat.com/match/5177"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.69",
+     "score_url": "https://understat.com/match/5178"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/5179"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.47",
+     "score_url": "https://understat.com/match/5180"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.01",
+     "score_url": "https://understat.com/match/5181"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.45",
+     "score_url": "https://understat.com/match/5182"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.04",
+     "score_url": "https://understat.com/match/5183"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.20",
+     "score_url": "https://understat.com/match/5184"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.92",
+     "score_url": "https://understat.com/match/5185"
+    }
+   ]
+  },
+  {
+   "name": "Friday, May 08, 2015",
+   "home": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.57",
+     "score_url": "https://understat.com/match/5168"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.89",
+     "score_url": "https://understat.com/match/5168"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, May 09, 2015",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/5169"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.79",
+     "score_url": "https://understat.com/match/5170"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.06",
+     "score_url": "https://understat.com/match/5171"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.17",
+     "score_url": "https://understat.com/match/5172"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.91",
+     "score_url": "https://understat.com/match/5173"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "2.70",
+     "score_url": "https://understat.com/match/5174"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "2.58",
+     "score_url": "https://understat.com/match/5169"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.14",
+     "score_url": "https://understat.com/match/5170"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.59",
+     "score_url": "https://understat.com/match/5171"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.49",
+     "score_url": "https://understat.com/match/5172"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.79",
+     "score_url": "https://understat.com/match/5173"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.28",
+     "score_url": "https://understat.com/match/5174"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, May 10, 2015",
+   "home": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.27",
+     "score_url": "https://understat.com/match/5175"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.53",
+     "score_url": "https://understat.com/match/5176"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.68",
+     "score_url": "https://understat.com/match/5175"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.24",
+     "score_url": "https://understat.com/match/5176"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, May 02, 2015",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "2.47",
+     "score_url": "https://understat.com/match/5159"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.53",
+     "score_url": "https://understat.com/match/5160"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.43",
+     "score_url": "https://understat.com/match/5161"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/5162"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "2.87",
+     "score_url": "https://understat.com/match/5163"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.71",
+     "score_url": "https://understat.com/match/5164"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/5165"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.14",
+     "score_url": "https://understat.com/match/5159"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.42",
+     "score_url": "https://understat.com/match/5160"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.29",
+     "score_url": "https://understat.com/match/5161"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/5162"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.22",
+     "score_url": "https://understat.com/match/5163"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.32",
+     "score_url": "https://understat.com/match/5164"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/5165"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, May 03, 2015",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/5166"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/5167"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/5166"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.19",
+     "score_url": "https://understat.com/match/5167"
+    }
+   ]
+  },
+  {
+   "name": "Friday, April 24, 2015",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/5222"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.25",
+     "score_url": "https://understat.com/match/5222"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 25, 2015",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5223"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/5224"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/5225"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5226"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.47",
+     "score_url": "https://understat.com/match/5227"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "0.90",
+     "score_url": "https://understat.com/match/5228"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.26",
+     "score_url": "https://understat.com/match/5223"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "2.05",
+     "score_url": "https://understat.com/match/5224"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/5225"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/5226"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.37",
+     "score_url": "https://understat.com/match/5227"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/5228"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 26, 2015",
+   "home": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.97",
+     "score_url": "https://understat.com/match/5229"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.65",
+     "score_url": "https://understat.com/match/5230"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.96",
+     "score_url": "https://understat.com/match/5229"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "0.42",
+     "score_url": "https://understat.com/match/5230"
+    }
+   ]
+  },
+  {
+   "name": "Friday, April 17, 2015",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.46",
+     "score_url": "https://understat.com/match/5213"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.07",
+     "score_url": "https://understat.com/match/5213"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 18, 2015",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.28",
+     "score_url": "https://understat.com/match/5214"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/5215"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.07",
+     "score_url": "https://understat.com/match/5216"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "3.21",
+     "score_url": "https://understat.com/match/5217"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "2.61",
+     "score_url": "https://understat.com/match/5218"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.14",
+     "score_url": "https://understat.com/match/5219"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "2.30",
+     "score_url": "https://understat.com/match/5214"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.52",
+     "score_url": "https://understat.com/match/5215"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.54",
+     "score_url": "https://understat.com/match/5216"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.12",
+     "score_url": "https://understat.com/match/5217"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.33",
+     "score_url": "https://understat.com/match/5218"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "2.41",
+     "score_url": "https://understat.com/match/5219"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 19, 2015",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.35",
+     "score_url": "https://understat.com/match/5220"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.08",
+     "score_url": "https://understat.com/match/5221"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.43",
+     "score_url": "https://understat.com/match/5220"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.29",
+     "score_url": "https://understat.com/match/5221"
+    }
+   ]
+  },
+  {
+   "name": "Friday, April 10, 2015",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.68",
+     "score_url": "https://understat.com/match/5204"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.36",
+     "score_url": "https://understat.com/match/5204"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 11, 2015",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.15",
+     "score_url": "https://understat.com/match/5205"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.07",
+     "score_url": "https://understat.com/match/5206"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.09",
+     "score_url": "https://understat.com/match/5207"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "2.21",
+     "score_url": "https://understat.com/match/5208"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "2.36",
+     "score_url": "https://understat.com/match/5209"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.14",
+     "score_url": "https://understat.com/match/5210"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.24",
+     "score_url": "https://understat.com/match/5205"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.27",
+     "score_url": "https://understat.com/match/5206"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.70",
+     "score_url": "https://understat.com/match/5207"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.97",
+     "score_url": "https://understat.com/match/5208"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.64",
+     "score_url": "https://understat.com/match/5209"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "2.16",
+     "score_url": "https://understat.com/match/5210"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 12, 2015",
+   "home": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "2.56",
+     "score_url": "https://understat.com/match/5211"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "2.35",
+     "score_url": "https://understat.com/match/5212"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "2.32",
+     "score_url": "https://understat.com/match/5211"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.45",
+     "score_url": "https://understat.com/match/5212"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 04, 2015",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/5195"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5196"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.50",
+     "score_url": "https://understat.com/match/5197"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "2.32",
+     "score_url": "https://understat.com/match/5198"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "3.82",
+     "score_url": "https://understat.com/match/5199"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "3.74",
+     "score_url": "https://understat.com/match/5200"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.52",
+     "score_url": "https://understat.com/match/5201"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.92",
+     "score_url": "https://understat.com/match/5195"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.33",
+     "score_url": "https://understat.com/match/5196"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/5197"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "3.20",
+     "score_url": "https://understat.com/match/5198"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.35",
+     "score_url": "https://understat.com/match/5199"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.92",
+     "score_url": "https://understat.com/match/5200"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/5201"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 05, 2015",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/5202"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.84",
+     "score_url": "https://understat.com/match/5203"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/5202"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/5203"
+    }
+   ]
+  },
+  {
+   "name": "Friday, March 20, 2015",
+   "home": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.48",
+     "score_url": "https://understat.com/match/5251"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.71",
+     "score_url": "https://understat.com/match/5251"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, March 21, 2015",
+   "home": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/5252"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.07",
+     "score_url": "https://understat.com/match/5253"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/5254"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "2.10",
+     "score_url": "https://understat.com/match/5255"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "2.22",
+     "score_url": "https://understat.com/match/5256"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.80",
+     "score_url": "https://understat.com/match/5257"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.57",
+     "score_url": "https://understat.com/match/5252"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.27",
+     "score_url": "https://understat.com/match/5253"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.31",
+     "score_url": "https://understat.com/match/5254"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.11",
+     "score_url": "https://understat.com/match/5255"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.35",
+     "score_url": "https://understat.com/match/5256"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.32",
+     "score_url": "https://understat.com/match/5257"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 22, 2015",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.03",
+     "score_url": "https://understat.com/match/5258"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "0.71",
+     "score_url": "https://understat.com/match/5259"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "0.81",
+     "score_url": "https://understat.com/match/5258"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/5259"
+    }
+   ]
+  },
+  {
+   "name": "Friday, March 13, 2015",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.60",
+     "score_url": "https://understat.com/match/5242"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5242"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, March 14, 2015",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/5243"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "2.67",
+     "score_url": "https://understat.com/match/5244"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.64",
+     "score_url": "https://understat.com/match/5245"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.29",
+     "score_url": "https://understat.com/match/5246"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.73",
+     "score_url": "https://understat.com/match/5247"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.54",
+     "score_url": "https://understat.com/match/5248"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.63",
+     "score_url": "https://understat.com/match/5243"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.44",
+     "score_url": "https://understat.com/match/5244"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.99",
+     "score_url": "https://understat.com/match/5245"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.18",
+     "score_url": "https://understat.com/match/5246"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.63",
+     "score_url": "https://understat.com/match/5247"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.94",
+     "score_url": "https://understat.com/match/5248"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 15, 2015",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "2.69",
+     "score_url": "https://understat.com/match/5249"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "3.31",
+     "score_url": "https://understat.com/match/5250"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/5249"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.40",
+     "score_url": "https://understat.com/match/5250"
+    }
+   ]
+  },
+  {
+   "name": "Friday, March 06, 2015",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.08",
+     "score_url": "https://understat.com/match/5233"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.68",
+     "score_url": "https://understat.com/match/5233"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, March 07, 2015",
+   "home": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.74",
+     "score_url": "https://understat.com/match/5234"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/5235"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.21",
+     "score_url": "https://understat.com/match/5236"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.43",
+     "score_url": "https://understat.com/match/5237"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "2.12",
+     "score_url": "https://understat.com/match/5238"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/5239"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.51",
+     "score_url": "https://understat.com/match/5234"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/5235"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/5236"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.65",
+     "score_url": "https://understat.com/match/5237"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.95",
+     "score_url": "https://understat.com/match/5238"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.45",
+     "score_url": "https://understat.com/match/5239"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 08, 2015",
+   "home": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.75",
+     "score_url": "https://understat.com/match/5240"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/5241"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.89",
+     "score_url": "https://understat.com/match/5240"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/5241"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 27, 2015",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "3.92",
+     "score_url": "https://understat.com/match/5298"
+    }
+   ],
+   "away": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.49",
+     "score_url": "https://understat.com/match/5298"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 28, 2015",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "4.81",
+     "score_url": "https://understat.com/match/5299"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.57",
+     "score_url": "https://understat.com/match/5300"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "2.25",
+     "score_url": "https://understat.com/match/5301"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/5302"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.27",
+     "score_url": "https://understat.com/match/5303"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "2.21",
+     "score_url": "https://understat.com/match/5304"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.04",
+     "score_url": "https://understat.com/match/5299"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.27",
+     "score_url": "https://understat.com/match/5300"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "2.17",
+     "score_url": "https://understat.com/match/5301"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.74",
+     "score_url": "https://understat.com/match/5302"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/5303"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.43",
+     "score_url": "https://understat.com/match/5304"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 01, 2015",
+   "home": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/5231"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/5232"
+    }
+   ],
+   "away": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.75",
+     "score_url": "https://understat.com/match/5231"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "2.55",
+     "score_url": "https://understat.com/match/5232"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 20, 2015",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.56",
+     "score_url": "https://understat.com/match/5289"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.56",
+     "score_url": "https://understat.com/match/5289"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 21, 2015",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/5290"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.93",
+     "score_url": "https://understat.com/match/5291"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5292"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/5293"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.38",
+     "score_url": "https://understat.com/match/5294"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/5295"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.57",
+     "score_url": "https://understat.com/match/5290"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.93",
+     "score_url": "https://understat.com/match/5291"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/5292"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/5293"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "3.13",
+     "score_url": "https://understat.com/match/5294"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.98",
+     "score_url": "https://understat.com/match/5295"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 22, 2015",
+   "home": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5296"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.78",
+     "score_url": "https://understat.com/match/5297"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/5296"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/5297"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 13, 2015",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.75",
+     "score_url": "https://understat.com/match/5280"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.69",
+     "score_url": "https://understat.com/match/5280"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 14, 2015",
+   "home": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.80",
+     "score_url": "https://understat.com/match/5281"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.99",
+     "score_url": "https://understat.com/match/5282"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/5283"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "2.63",
+     "score_url": "https://understat.com/match/5284"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "4.18",
+     "score_url": "https://understat.com/match/5285"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/5286"
+    }
+   ],
+   "away": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/5281"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "2.09",
+     "score_url": "https://understat.com/match/5282"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.19",
+     "score_url": "https://understat.com/match/5283"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.59",
+     "score_url": "https://understat.com/match/5284"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.23",
+     "score_url": "https://understat.com/match/5285"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/5286"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 15, 2015",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.49",
+     "score_url": "https://understat.com/match/5287"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.86",
+     "score_url": "https://understat.com/match/5288"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/5287"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.98",
+     "score_url": "https://understat.com/match/5288"
+    }
+   ]
+  },
+  {
+   "name": "Tuesday, February 03, 2015",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.71",
+     "score_url": "https://understat.com/match/5262"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/5263"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "0.38",
+     "score_url": "https://understat.com/match/5264"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.29",
+     "score_url": "https://understat.com/match/5265"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/5262"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.86",
+     "score_url": "https://understat.com/match/5263"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.99",
+     "score_url": "https://understat.com/match/5264"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.88",
+     "score_url": "https://understat.com/match/5265"
+    }
+   ]
+  },
+  {
+   "name": "Wednesday, February 04, 2015",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.94",
+     "score_url": "https://understat.com/match/5266"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.31",
+     "score_url": "https://understat.com/match/5267"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.81",
+     "score_url": "https://understat.com/match/5268"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.53",
+     "score_url": "https://understat.com/match/5269"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.33",
+     "score_url": "https://understat.com/match/5270"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.05",
+     "score_url": "https://understat.com/match/5266"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.62",
+     "score_url": "https://understat.com/match/5267"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "2.21",
+     "score_url": "https://understat.com/match/5268"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.07",
+     "score_url": "https://understat.com/match/5269"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.58",
+     "score_url": "https://understat.com/match/5270"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 06, 2015",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.03",
+     "score_url": "https://understat.com/match/5271"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.33",
+     "score_url": "https://understat.com/match/5271"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 07, 2015",
+   "home": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5272"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.16",
+     "score_url": "https://understat.com/match/5273"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.13",
+     "score_url": "https://understat.com/match/5274"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.52",
+     "score_url": "https://understat.com/match/5275"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.37",
+     "score_url": "https://understat.com/match/5276"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/5277"
+    }
+   ],
+   "away": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.58",
+     "score_url": "https://understat.com/match/5272"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.15",
+     "score_url": "https://understat.com/match/5273"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "0.10",
+     "score_url": "https://understat.com/match/5274"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/5275"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.40",
+     "score_url": "https://understat.com/match/5276"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "2.25",
+     "score_url": "https://understat.com/match/5277"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 08, 2015",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.89",
+     "score_url": "https://understat.com/match/5278"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.76",
+     "score_url": "https://understat.com/match/5279"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.75",
+     "score_url": "https://understat.com/match/5278"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "2.01",
+     "score_url": "https://understat.com/match/5279"
+    }
+   ]
+  },
+  {
+   "name": "Friday, January 30, 2015",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "2.18",
+     "score_url": "https://understat.com/match/5305"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.92",
+     "score_url": "https://understat.com/match/5305"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, January 31, 2015",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "2.88",
+     "score_url": "https://understat.com/match/5306"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "3.19",
+     "score_url": "https://understat.com/match/5307"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.61",
+     "score_url": "https://understat.com/match/5308"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/5309"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "2.00",
+     "score_url": "https://understat.com/match/5310"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.34",
+     "score_url": "https://understat.com/match/5311"
+    }
+   ],
+   "away": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/5306"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/5307"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.27",
+     "score_url": "https://understat.com/match/5308"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.16",
+     "score_url": "https://understat.com/match/5309"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.92",
+     "score_url": "https://understat.com/match/5310"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.45",
+     "score_url": "https://understat.com/match/5311"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 01, 2015",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/5260"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "2.39",
+     "score_url": "https://understat.com/match/5261"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.10",
+     "score_url": "https://understat.com/match/5260"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/5261"
+    }
+   ]
+  },
+  {
+   "name": "Tuesday, December 16, 2014",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/5330"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.44",
+     "score_url": "https://understat.com/match/5331"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.54",
+     "score_url": "https://understat.com/match/5332"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.98",
+     "score_url": "https://understat.com/match/5333"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.69",
+     "score_url": "https://understat.com/match/5330"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.36",
+     "score_url": "https://understat.com/match/5331"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.48",
+     "score_url": "https://understat.com/match/5332"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.05",
+     "score_url": "https://understat.com/match/5333"
+    }
+   ]
+  },
+  {
+   "name": "Wednesday, December 17, 2014",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "2.74",
+     "score_url": "https://understat.com/match/5334"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5335"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.07",
+     "score_url": "https://understat.com/match/5336"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.44",
+     "score_url": "https://understat.com/match/5337"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.41",
+     "score_url": "https://understat.com/match/5338"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "2.05",
+     "score_url": "https://understat.com/match/5334"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.39",
+     "score_url": "https://understat.com/match/5335"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.31",
+     "score_url": "https://understat.com/match/5336"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "2.18",
+     "score_url": "https://understat.com/match/5337"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.15",
+     "score_url": "https://understat.com/match/5338"
+    }
+   ]
+  },
+  {
+   "name": "Friday, December 19, 2014",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.49",
+     "score_url": "https://understat.com/match/5339"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "0.83",
+     "score_url": "https://understat.com/match/5339"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, December 20, 2014",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.66",
+     "score_url": "https://understat.com/match/5340"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "2.37",
+     "score_url": "https://understat.com/match/5341"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.53",
+     "score_url": "https://understat.com/match/5342"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.86",
+     "score_url": "https://understat.com/match/5343"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.77",
+     "score_url": "https://understat.com/match/5344"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "0.53",
+     "score_url": "https://understat.com/match/5345"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.18",
+     "score_url": "https://understat.com/match/5340"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/5341"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.37",
+     "score_url": "https://understat.com/match/5342"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.46",
+     "score_url": "https://understat.com/match/5343"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/5344"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.40",
+     "score_url": "https://understat.com/match/5345"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, December 21, 2014",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.71",
+     "score_url": "https://understat.com/match/5346"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.29",
+     "score_url": "https://understat.com/match/5347"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "3.63",
+     "score_url": "https://understat.com/match/5346"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.52",
+     "score_url": "https://understat.com/match/5347"
+    }
+   ]
+  },
+  {
+   "name": "Friday, December 12, 2014",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "3.33",
+     "score_url": "https://understat.com/match/5321"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "2.43",
+     "score_url": "https://understat.com/match/5321"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, December 13, 2014",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/5322"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.85",
+     "score_url": "https://understat.com/match/5323"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.29",
+     "score_url": "https://understat.com/match/5324"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/5325"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.46",
+     "score_url": "https://understat.com/match/5326"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.35",
+     "score_url": "https://understat.com/match/5327"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/5322"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/5323"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.22",
+     "score_url": "https://understat.com/match/5324"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.14",
+     "score_url": "https://understat.com/match/5325"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.52",
+     "score_url": "https://understat.com/match/5326"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.55",
+     "score_url": "https://understat.com/match/5327"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, December 14, 2014",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.01",
+     "score_url": "https://understat.com/match/5328"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "3.22",
+     "score_url": "https://understat.com/match/5329"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.16",
+     "score_url": "https://understat.com/match/5328"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.00",
+     "score_url": "https://understat.com/match/5329"
+    }
+   ]
+  },
+  {
+   "name": "Friday, December 05, 2014",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.58",
+     "score_url": "https://understat.com/match/5312"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.20",
+     "score_url": "https://understat.com/match/5312"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, December 06, 2014",
+   "home": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.83",
+     "score_url": "https://understat.com/match/5313"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.68",
+     "score_url": "https://understat.com/match/5314"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.68",
+     "score_url": "https://understat.com/match/5315"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/5316"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/5317"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/5318"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.42",
+     "score_url": "https://understat.com/match/5313"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.86",
+     "score_url": "https://understat.com/match/5314"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.70",
+     "score_url": "https://understat.com/match/5315"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.88",
+     "score_url": "https://understat.com/match/5316"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.35",
+     "score_url": "https://understat.com/match/5317"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/5318"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, December 07, 2014",
+   "home": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "2.03",
+     "score_url": "https://understat.com/match/5319"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "3.83",
+     "score_url": "https://understat.com/match/5320"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.02",
+     "score_url": "https://understat.com/match/5319"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/5320"
+    }
+   ]
+  },
+  {
+   "name": "Friday, November 28, 2014",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.50",
+     "score_url": "https://understat.com/match/5374"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "3.36",
+     "score_url": "https://understat.com/match/5374"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, November 29, 2014",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "2.79",
+     "score_url": "https://understat.com/match/5375"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.56",
+     "score_url": "https://understat.com/match/5376"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "2.38",
+     "score_url": "https://understat.com/match/5377"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.26",
+     "score_url": "https://understat.com/match/5378"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "4.48",
+     "score_url": "https://understat.com/match/5379"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "2.00",
+     "score_url": "https://understat.com/match/5380"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/5375"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "2.05",
+     "score_url": "https://understat.com/match/5376"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/5377"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.94",
+     "score_url": "https://understat.com/match/5378"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/5379"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.81",
+     "score_url": "https://understat.com/match/5380"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, November 30, 2014",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.69",
+     "score_url": "https://understat.com/match/5381"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "2.22",
+     "score_url": "https://understat.com/match/5382"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/5381"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.77",
+     "score_url": "https://understat.com/match/5382"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, November 22, 2014",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.09",
+     "score_url": "https://understat.com/match/5365"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/5366"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/5367"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.79",
+     "score_url": "https://understat.com/match/5368"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.78",
+     "score_url": "https://understat.com/match/5369"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.64",
+     "score_url": "https://understat.com/match/5370"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.13",
+     "score_url": "https://understat.com/match/5371"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/5365"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.23",
+     "score_url": "https://understat.com/match/5366"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.74",
+     "score_url": "https://understat.com/match/5367"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.69",
+     "score_url": "https://understat.com/match/5368"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "2.37",
+     "score_url": "https://understat.com/match/5369"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.92",
+     "score_url": "https://understat.com/match/5370"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.47",
+     "score_url": "https://understat.com/match/5371"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, November 23, 2014",
+   "home": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "2.61",
+     "score_url": "https://understat.com/match/5372"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.38",
+     "score_url": "https://understat.com/match/5373"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.15",
+     "score_url": "https://understat.com/match/5372"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "2.06",
+     "score_url": "https://understat.com/match/5373"
+    }
+   ]
+  },
+  {
+   "name": "Friday, November 07, 2014",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.36",
+     "score_url": "https://understat.com/match/5356"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.09",
+     "score_url": "https://understat.com/match/5356"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, November 08, 2014",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.66",
+     "score_url": "https://understat.com/match/5357"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/5358"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "2.07",
+     "score_url": "https://understat.com/match/5359"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.22",
+     "score_url": "https://understat.com/match/5360"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/5361"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.65",
+     "score_url": "https://understat.com/match/5362"
+    }
+   ],
+   "away": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.97",
+     "score_url": "https://understat.com/match/5357"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.31",
+     "score_url": "https://understat.com/match/5358"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.29",
+     "score_url": "https://understat.com/match/5359"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "3.03",
+     "score_url": "https://understat.com/match/5360"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.53",
+     "score_url": "https://understat.com/match/5361"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.77",
+     "score_url": "https://understat.com/match/5362"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, November 09, 2014",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.95",
+     "score_url": "https://understat.com/match/5363"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.28",
+     "score_url": "https://understat.com/match/5364"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.49",
+     "score_url": "https://understat.com/match/5363"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.03",
+     "score_url": "https://understat.com/match/5364"
+    }
+   ]
+  },
+  {
+   "name": "Friday, October 31, 2014",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.71",
+     "score_url": "https://understat.com/match/5410"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.69",
+     "score_url": "https://understat.com/match/5410"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, November 01, 2014",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/5348"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/5349"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.92",
+     "score_url": "https://understat.com/match/5350"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/5351"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.64",
+     "score_url": "https://understat.com/match/5352"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.66",
+     "score_url": "https://understat.com/match/5348"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.35",
+     "score_url": "https://understat.com/match/5349"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "2.70",
+     "score_url": "https://understat.com/match/5350"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.43",
+     "score_url": "https://understat.com/match/5351"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.94",
+     "score_url": "https://understat.com/match/5352"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, November 02, 2014",
+   "home": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.46",
+     "score_url": "https://understat.com/match/5353"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.38",
+     "score_url": "https://understat.com/match/5354"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.97",
+     "score_url": "https://understat.com/match/5355"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "0.65",
+     "score_url": "https://understat.com/match/5353"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.46",
+     "score_url": "https://understat.com/match/5354"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/5355"
+    }
+   ]
+  },
+  {
+   "name": "Friday, October 24, 2014",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.51",
+     "score_url": "https://understat.com/match/5401"
+    }
+   ],
+   "away": [
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.52",
+     "score_url": "https://understat.com/match/5401"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, October 25, 2014",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "2.98",
+     "score_url": "https://understat.com/match/5402"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "2.24",
+     "score_url": "https://understat.com/match/5403"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.50",
+     "score_url": "https://understat.com/match/5404"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "2.51",
+     "score_url": "https://understat.com/match/5405"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/5406"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/5407"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "3.13",
+     "score_url": "https://understat.com/match/5402"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.91",
+     "score_url": "https://understat.com/match/5403"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/5404"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.78",
+     "score_url": "https://understat.com/match/5405"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.70",
+     "score_url": "https://understat.com/match/5406"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.15",
+     "score_url": "https://understat.com/match/5407"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, October 26, 2014",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "4.06",
+     "score_url": "https://understat.com/match/5408"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.65",
+     "score_url": "https://understat.com/match/5409"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/5408"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/5409"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, October 18, 2014",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.50",
+     "score_url": "https://understat.com/match/5392"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.06",
+     "score_url": "https://understat.com/match/5393"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/5394"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.01",
+     "score_url": "https://understat.com/match/5395"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5396"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.90",
+     "score_url": "https://understat.com/match/5397"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.80",
+     "score_url": "https://understat.com/match/5398"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.00",
+     "score_url": "https://understat.com/match/5392"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5393"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/5394"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.46",
+     "score_url": "https://understat.com/match/5395"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.87",
+     "score_url": "https://understat.com/match/5396"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.83",
+     "score_url": "https://understat.com/match/5397"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/5398"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, October 19, 2014",
+   "home": [
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.82",
+     "score_url": "https://understat.com/match/5399"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "2.38",
+     "score_url": "https://understat.com/match/5400"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.56",
+     "score_url": "https://understat.com/match/5399"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/5400"
+    }
+   ]
+  },
+  {
+   "name": "Friday, October 03, 2014",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "2.37",
+     "score_url": "https://understat.com/match/5383"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.43",
+     "score_url": "https://understat.com/match/5383"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, October 04, 2014",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.22",
+     "score_url": "https://understat.com/match/5384"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.70",
+     "score_url": "https://understat.com/match/5385"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/5386"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.60",
+     "score_url": "https://understat.com/match/5387"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "3.23",
+     "score_url": "https://understat.com/match/5388"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "2.50",
+     "score_url": "https://understat.com/match/5389"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5384"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.44",
+     "score_url": "https://understat.com/match/5385"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.43",
+     "score_url": "https://understat.com/match/5386"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.13",
+     "score_url": "https://understat.com/match/5387"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/5388"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/5389"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, October 05, 2014",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "0.68",
+     "score_url": "https://understat.com/match/5390"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.66",
+     "score_url": "https://understat.com/match/5391"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/5390"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/5391"
+    }
+   ]
+  },
+  {
+   "name": "Tuesday, September 23, 2014",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.82",
+     "score_url": "https://understat.com/match/5429"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "3.48",
+     "score_url": "https://understat.com/match/5430"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.99",
+     "score_url": "https://understat.com/match/5431"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.45",
+     "score_url": "https://understat.com/match/5432"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "2.45",
+     "score_url": "https://understat.com/match/5429"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.40",
+     "score_url": "https://understat.com/match/5430"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.37",
+     "score_url": "https://understat.com/match/5431"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/5432"
+    }
+   ]
+  },
+  {
+   "name": "Wednesday, September 24, 2014",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.14",
+     "score_url": "https://understat.com/match/5433"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.65",
+     "score_url": "https://understat.com/match/5434"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.39",
+     "score_url": "https://understat.com/match/5435"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.41",
+     "score_url": "https://understat.com/match/5436"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.43",
+     "score_url": "https://understat.com/match/5437"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.48",
+     "score_url": "https://understat.com/match/5433"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.57",
+     "score_url": "https://understat.com/match/5434"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/5435"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.70",
+     "score_url": "https://understat.com/match/5436"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "0.86",
+     "score_url": "https://understat.com/match/5437"
+    }
+   ]
+  },
+  {
+   "name": "Friday, September 26, 2014",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/5438"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.09",
+     "score_url": "https://understat.com/match/5438"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, September 27, 2014",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/5439"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.83",
+     "score_url": "https://understat.com/match/5440"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.08",
+     "score_url": "https://understat.com/match/5441"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.82",
+     "score_url": "https://understat.com/match/5442"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "1.57",
+     "score_url": "https://understat.com/match/5443"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.24",
+     "score_url": "https://understat.com/match/5444"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/5439"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/5440"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/5441"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "3.47",
+     "score_url": "https://understat.com/match/5442"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/5443"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "0.33",
+     "score_url": "https://understat.com/match/5444"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, September 28, 2014",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.26",
+     "score_url": "https://understat.com/match/5445"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.09",
+     "score_url": "https://understat.com/match/5446"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.28",
+     "score_url": "https://understat.com/match/5445"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.23",
+     "score_url": "https://understat.com/match/5446"
+    }
+   ]
+  },
+  {
+   "name": "Friday, September 19, 2014",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.87",
+     "score_url": "https://understat.com/match/5420"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.29",
+     "score_url": "https://understat.com/match/5420"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, September 20, 2014",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "1.33",
+     "score_url": "https://understat.com/match/5421"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.20",
+     "score_url": "https://understat.com/match/5422"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.78",
+     "score_url": "https://understat.com/match/5423"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "2.05",
+     "score_url": "https://understat.com/match/5424"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "2.91",
+     "score_url": "https://understat.com/match/5425"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "0.97",
+     "score_url": "https://understat.com/match/5426"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.15",
+     "score_url": "https://understat.com/match/5421"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/5422"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/5423"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.55",
+     "score_url": "https://understat.com/match/5424"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "2.02",
+     "score_url": "https://understat.com/match/5425"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.10",
+     "score_url": "https://understat.com/match/5426"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, September 21, 2014",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.56",
+     "score_url": "https://understat.com/match/5427"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.55",
+     "score_url": "https://understat.com/match/5428"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "0.62",
+     "score_url": "https://understat.com/match/5427"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.77",
+     "score_url": "https://understat.com/match/5428"
+    }
+   ]
+  },
+  {
+   "name": "Friday, September 12, 2014",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.98",
+     "score_url": "https://understat.com/match/5411"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.73",
+     "score_url": "https://understat.com/match/5411"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, September 13, 2014",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.16",
+     "score_url": "https://understat.com/match/5412"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.23",
+     "score_url": "https://understat.com/match/5413"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "1.72",
+     "score_url": "https://understat.com/match/5414"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.72",
+     "score_url": "https://understat.com/match/5415"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.33",
+     "score_url": "https://understat.com/match/5416"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "3.38",
+     "score_url": "https://understat.com/match/5417"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.64",
+     "score_url": "https://understat.com/match/5412"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.31",
+     "score_url": "https://understat.com/match/5413"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "0.26",
+     "score_url": "https://understat.com/match/5414"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "2.37",
+     "score_url": "https://understat.com/match/5415"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/5416"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.82",
+     "score_url": "https://understat.com/match/5417"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, September 14, 2014",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/5418"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "2.23",
+     "score_url": "https://understat.com/match/5419"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.00",
+     "score_url": "https://understat.com/match/5418"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.98",
+     "score_url": "https://understat.com/match/5419"
+    }
+   ]
+  },
+  {
+   "name": "Friday, August 29, 2014",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "1.00",
+     "score_url": "https://understat.com/match/5456"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "2.30",
+     "score_url": "https://understat.com/match/5456"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, August 30, 2014",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "2.51",
+     "score_url": "https://understat.com/match/5457"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/5458"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "1.14",
+     "score_url": "https://understat.com/match/5459"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "2.53",
+     "score_url": "https://understat.com/match/5460"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.00",
+     "score_url": "https://understat.com/match/5461"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "1.31",
+     "score_url": "https://understat.com/match/5462"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5457"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5458"
+    },
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "2.37",
+     "score_url": "https://understat.com/match/5459"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "0.71",
+     "score_url": "https://understat.com/match/5460"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.60",
+     "score_url": "https://understat.com/match/5461"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "1.50",
+     "score_url": "https://understat.com/match/5462"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, August 31, 2014",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.01",
+     "score_url": "https://understat.com/match/5463"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/5464"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/5463"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "0.32",
+     "score_url": "https://understat.com/match/5464"
+    }
+   ]
+  },
+  {
+   "name": "Friday, August 22, 2014",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2014",
+     "score": "2.57",
+     "score_url": "https://understat.com/match/5447"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2014",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/5447"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, August 23, 2014",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2014",
+     "score": "1.53",
+     "score_url": "https://understat.com/match/5448"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2014",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/5449"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2014",
+     "score": "1.76",
+     "score_url": "https://understat.com/match/5450"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2014",
+     "score": "1.75",
+     "score_url": "https://understat.com/match/5451"
+    },
+    {
+     "name": "FC Cologne",
+     "url": "https://understat.com/team/FC_Cologne/2014",
+     "score": "0.52",
+     "score_url": "https://understat.com/match/5452"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2014",
+     "score": "0.48",
+     "score_url": "https://understat.com/match/5453"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2014",
+     "score": "0.28",
+     "score_url": "https://understat.com/match/5448"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2014",
+     "score": "0.96",
+     "score_url": "https://understat.com/match/5449"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2014",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/5450"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2014",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/5451"
+    },
+    {
+     "name": "Hamburger SV",
+     "url": "https://understat.com/team/Hamburger_SV/2014",
+     "score": "0.91",
+     "score_url": "https://understat.com/match/5452"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2014",
+     "score": "1.15",
+     "score_url": "https://understat.com/match/5453"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, August 24, 2014",
+   "home": [
+    {
+     "name": "Paderborn",
+     "url": "https://understat.com/team/Paderborn/2014",
+     "score": "0.35",
+     "score_url": "https://understat.com/match/5454"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2014",
+     "score": "2.41",
+     "score_url": "https://understat.com/match/5455"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2014",
+     "score": "1.84",
+     "score_url": "https://understat.com/match/5454"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2014",
+     "score": "0.43",
+     "score_url": "https://understat.com/match/5455"
+    }
+   ]
+  }
+ ]
+}

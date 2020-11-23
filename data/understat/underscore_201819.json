@@ -1,0 +1,4383 @@
+{
+ "date": [
+  {
+   "name": "Saturday, May 18, 2019",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.69",
+     "score_url": "https://understat.com/match/10634"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "4.63",
+     "score_url": "https://understat.com/match/10635"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.09",
+     "score_url": "https://understat.com/match/10636"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/10637"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/10638"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.63",
+     "score_url": "https://understat.com/match/10639"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.17",
+     "score_url": "https://understat.com/match/10640"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "4.15",
+     "score_url": "https://understat.com/match/10641"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "2.88",
+     "score_url": "https://understat.com/match/10642"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/10634"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/10635"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.73",
+     "score_url": "https://understat.com/match/10636"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.85",
+     "score_url": "https://understat.com/match/10637"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.37",
+     "score_url": "https://understat.com/match/10638"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.36",
+     "score_url": "https://understat.com/match/10639"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/10640"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/10641"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.64",
+     "score_url": "https://understat.com/match/10642"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, May 11, 2019",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.81",
+     "score_url": "https://understat.com/match/10625"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.04",
+     "score_url": "https://understat.com/match/10626"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/10627"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/10628"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.68",
+     "score_url": "https://understat.com/match/10629"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.43",
+     "score_url": "https://understat.com/match/10631"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "2.30",
+     "score_url": "https://understat.com/match/10632"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.80",
+     "score_url": "https://understat.com/match/10633"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/10625"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.08",
+     "score_url": "https://understat.com/match/10626"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.79",
+     "score_url": "https://understat.com/match/10627"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.72",
+     "score_url": "https://understat.com/match/10628"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.34",
+     "score_url": "https://understat.com/match/10629"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.58",
+     "score_url": "https://understat.com/match/10631"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/10632"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.76",
+     "score_url": "https://understat.com/match/10633"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, May 12, 2019",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.71",
+     "score_url": "https://understat.com/match/10630"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.25",
+     "score_url": "https://understat.com/match/10630"
+    }
+   ]
+  },
+  {
+   "name": "Friday, May 03, 2019",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.72",
+     "score_url": "https://understat.com/match/10623"
+    }
+   ],
+   "away": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.75",
+     "score_url": "https://understat.com/match/10623"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, May 04, 2019",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "5.36",
+     "score_url": "https://understat.com/match/10616"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.24",
+     "score_url": "https://understat.com/match/10619"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.29",
+     "score_url": "https://understat.com/match/10620"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10624"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.64",
+     "score_url": "https://understat.com/match/10621"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.87",
+     "score_url": "https://understat.com/match/10616"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.24",
+     "score_url": "https://understat.com/match/10619"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.39",
+     "score_url": "https://understat.com/match/10620"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.57",
+     "score_url": "https://understat.com/match/10624"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.67",
+     "score_url": "https://understat.com/match/10621"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, May 05, 2019",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.82",
+     "score_url": "https://understat.com/match/10617"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.26",
+     "score_url": "https://understat.com/match/10622"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.79",
+     "score_url": "https://understat.com/match/10618"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.59",
+     "score_url": "https://understat.com/match/10617"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.91",
+     "score_url": "https://understat.com/match/10622"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "0.17",
+     "score_url": "https://understat.com/match/10618"
+    }
+   ]
+  },
+  {
+   "name": "Monday, April 22, 2019",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "2.01",
+     "score_url": "https://understat.com/match/10605"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/10605"
+    }
+   ]
+  },
+  {
+   "name": "Friday, April 26, 2019",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.28",
+     "score_url": "https://understat.com/match/10612"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.93",
+     "score_url": "https://understat.com/match/10612"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 27, 2019",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/10607"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.05",
+     "score_url": "https://understat.com/match/10609"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.16",
+     "score_url": "https://understat.com/match/10611"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.88",
+     "score_url": "https://understat.com/match/10613"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.07",
+     "score_url": "https://understat.com/match/10614"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.60",
+     "score_url": "https://understat.com/match/10610"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/10607"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.87",
+     "score_url": "https://understat.com/match/10609"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10611"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "2.94",
+     "score_url": "https://understat.com/match/10613"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.74",
+     "score_url": "https://understat.com/match/10614"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/10610"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 28, 2019",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.39",
+     "score_url": "https://understat.com/match/10608"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.91",
+     "score_url": "https://understat.com/match/10615"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "2.05",
+     "score_url": "https://understat.com/match/10608"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.69",
+     "score_url": "https://understat.com/match/10615"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 20, 2019",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.61",
+     "score_url": "https://understat.com/match/10598"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.51",
+     "score_url": "https://understat.com/match/10599"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "2.39",
+     "score_url": "https://understat.com/match/10602"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "3.24",
+     "score_url": "https://understat.com/match/10606"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "2.20",
+     "score_url": "https://understat.com/match/10604"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "2.02",
+     "score_url": "https://understat.com/match/10600"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.13",
+     "score_url": "https://understat.com/match/10598"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.25",
+     "score_url": "https://understat.com/match/10599"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/10602"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.53",
+     "score_url": "https://understat.com/match/10606"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.13",
+     "score_url": "https://understat.com/match/10604"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.87",
+     "score_url": "https://understat.com/match/10600"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 21, 2019",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.54",
+     "score_url": "https://understat.com/match/10601"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.08",
+     "score_url": "https://understat.com/match/10603"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.92",
+     "score_url": "https://understat.com/match/10601"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.53",
+     "score_url": "https://understat.com/match/10603"
+    }
+   ]
+  },
+  {
+   "name": "Friday, April 12, 2019",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "2.36",
+     "score_url": "https://understat.com/match/10597"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/10597"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 13, 2019",
+   "home": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.11",
+     "score_url": "https://understat.com/match/10591"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.44",
+     "score_url": "https://understat.com/match/10592"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.82",
+     "score_url": "https://understat.com/match/10594"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "1.37",
+     "score_url": "https://understat.com/match/10595"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.14",
+     "score_url": "https://understat.com/match/10590"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/10591"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.54",
+     "score_url": "https://understat.com/match/10592"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.55",
+     "score_url": "https://understat.com/match/10594"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.76",
+     "score_url": "https://understat.com/match/10595"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "2.94",
+     "score_url": "https://understat.com/match/10590"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 14, 2019",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.53",
+     "score_url": "https://understat.com/match/10589"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.97",
+     "score_url": "https://understat.com/match/10596"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.10",
+     "score_url": "https://understat.com/match/10593"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.31",
+     "score_url": "https://understat.com/match/10589"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "3.35",
+     "score_url": "https://understat.com/match/10596"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "2.22",
+     "score_url": "https://understat.com/match/10593"
+    }
+   ]
+  },
+  {
+   "name": "Friday, April 05, 2019",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "2.27",
+     "score_url": "https://understat.com/match/10587"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.81",
+     "score_url": "https://understat.com/match/10587"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, April 06, 2019",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/10581"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.13",
+     "score_url": "https://understat.com/match/10582"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/10583"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.90",
+     "score_url": "https://understat.com/match/10585"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/10588"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "4.31",
+     "score_url": "https://understat.com/match/10580"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.25",
+     "score_url": "https://understat.com/match/10581"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/10582"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "2.38",
+     "score_url": "https://understat.com/match/10583"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.73",
+     "score_url": "https://understat.com/match/10585"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/10588"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "0.48",
+     "score_url": "https://understat.com/match/10580"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, April 07, 2019",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.65",
+     "score_url": "https://understat.com/match/10586"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "2.00",
+     "score_url": "https://understat.com/match/10584"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.61",
+     "score_url": "https://understat.com/match/10586"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.05",
+     "score_url": "https://understat.com/match/10584"
+    }
+   ]
+  },
+  {
+   "name": "Friday, March 29, 2019",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.45",
+     "score_url": "https://understat.com/match/10571"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.71",
+     "score_url": "https://understat.com/match/10571"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, March 30, 2019",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.45",
+     "score_url": "https://understat.com/match/10572"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/10575"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.23",
+     "score_url": "https://understat.com/match/10576"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/10578"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.67",
+     "score_url": "https://understat.com/match/10579"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "5.04",
+     "score_url": "https://understat.com/match/10573"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.17",
+     "score_url": "https://understat.com/match/10572"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.87",
+     "score_url": "https://understat.com/match/10575"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.00",
+     "score_url": "https://understat.com/match/10576"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "3.24",
+     "score_url": "https://understat.com/match/10578"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/10579"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.90",
+     "score_url": "https://understat.com/match/10573"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 31, 2019",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/10577"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.01",
+     "score_url": "https://understat.com/match/10574"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.86",
+     "score_url": "https://understat.com/match/10577"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.57",
+     "score_url": "https://understat.com/match/10574"
+    }
+   ]
+  },
+  {
+   "name": "Monday, March 11, 2019",
+   "home": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/10558"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.76",
+     "score_url": "https://understat.com/match/10558"
+    }
+   ]
+  },
+  {
+   "name": "Friday, March 15, 2019",
+   "home": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.17",
+     "score_url": "https://understat.com/match/10569"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.51",
+     "score_url": "https://understat.com/match/10569"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, March 16, 2019",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.36",
+     "score_url": "https://understat.com/match/10562"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.01",
+     "score_url": "https://understat.com/match/10564"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "3.88",
+     "score_url": "https://understat.com/match/10566"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.36",
+     "score_url": "https://understat.com/match/10567"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.21",
+     "score_url": "https://understat.com/match/10568"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.90",
+     "score_url": "https://understat.com/match/10562"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.69",
+     "score_url": "https://understat.com/match/10564"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.94",
+     "score_url": "https://understat.com/match/10566"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "1.49",
+     "score_url": "https://understat.com/match/10567"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.24",
+     "score_url": "https://understat.com/match/10568"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 17, 2019",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "0.92",
+     "score_url": "https://understat.com/match/10563"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.59",
+     "score_url": "https://understat.com/match/10570"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.67",
+     "score_url": "https://understat.com/match/10565"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.31",
+     "score_url": "https://understat.com/match/10563"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.70",
+     "score_url": "https://understat.com/match/10570"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.30",
+     "score_url": "https://understat.com/match/10565"
+    }
+   ]
+  },
+  {
+   "name": "Friday, March 08, 2019",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.45",
+     "score_url": "https://understat.com/match/10557"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/10557"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, March 09, 2019",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "3.78",
+     "score_url": "https://understat.com/match/10553"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.56",
+     "score_url": "https://understat.com/match/10555"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.35",
+     "score_url": "https://understat.com/match/10556"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.97",
+     "score_url": "https://understat.com/match/10560"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.58",
+     "score_url": "https://understat.com/match/10559"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.16",
+     "score_url": "https://understat.com/match/10553"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.90",
+     "score_url": "https://understat.com/match/10555"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.18",
+     "score_url": "https://understat.com/match/10556"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.02",
+     "score_url": "https://understat.com/match/10560"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/10559"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 10, 2019",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.64",
+     "score_url": "https://understat.com/match/10554"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/10561"
+    }
+   ],
+   "away": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.79",
+     "score_url": "https://understat.com/match/10554"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.44",
+     "score_url": "https://understat.com/match/10561"
+    }
+   ]
+  },
+  {
+   "name": "Monday, February 25, 2019",
+   "home": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.91",
+     "score_url": "https://understat.com/match/10537"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.31",
+     "score_url": "https://understat.com/match/10537"
+    }
+   ]
+  },
+  {
+   "name": "Friday, March 01, 2019",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.96",
+     "score_url": "https://understat.com/match/10550"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.85",
+     "score_url": "https://understat.com/match/10550"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, March 02, 2019",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.71",
+     "score_url": "https://understat.com/match/10544"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "3.26",
+     "score_url": "https://understat.com/match/10545"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.31",
+     "score_url": "https://understat.com/match/10547"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/10549"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.03",
+     "score_url": "https://understat.com/match/10552"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.58",
+     "score_url": "https://understat.com/match/10548"
+    }
+   ],
+   "away": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.89",
+     "score_url": "https://understat.com/match/10544"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.26",
+     "score_url": "https://understat.com/match/10545"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.76",
+     "score_url": "https://understat.com/match/10547"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/10549"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "0.92",
+     "score_url": "https://understat.com/match/10552"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "5.94",
+     "score_url": "https://understat.com/match/10548"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, March 03, 2019",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "2.67",
+     "score_url": "https://understat.com/match/10546"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.17",
+     "score_url": "https://understat.com/match/10551"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/10546"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.84",
+     "score_url": "https://understat.com/match/10551"
+    }
+   ]
+  },
+  {
+   "name": "Monday, February 18, 2019",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.50",
+     "score_url": "https://understat.com/match/10533"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/10533"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 22, 2019",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.23",
+     "score_url": "https://understat.com/match/10539"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/10539"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 23, 2019",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "0.99",
+     "score_url": "https://understat.com/match/10535"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10538"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "2.01",
+     "score_url": "https://understat.com/match/10541"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "2.45",
+     "score_url": "https://understat.com/match/10542"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.55",
+     "score_url": "https://understat.com/match/10543"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.28",
+     "score_url": "https://understat.com/match/10535"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.79",
+     "score_url": "https://understat.com/match/10538"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.55",
+     "score_url": "https://understat.com/match/10541"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.75",
+     "score_url": "https://understat.com/match/10542"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.11",
+     "score_url": "https://understat.com/match/10543"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 24, 2019",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/10540"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.05",
+     "score_url": "https://understat.com/match/10536"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.34",
+     "score_url": "https://understat.com/match/10540"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.26",
+     "score_url": "https://understat.com/match/10536"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 15, 2019",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.51",
+     "score_url": "https://understat.com/match/10531"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.20",
+     "score_url": "https://understat.com/match/10531"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 16, 2019",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.59",
+     "score_url": "https://understat.com/match/10526"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.37",
+     "score_url": "https://understat.com/match/10528"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "2.14",
+     "score_url": "https://understat.com/match/10532"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/10534"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/10530"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.41",
+     "score_url": "https://understat.com/match/10526"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.32",
+     "score_url": "https://understat.com/match/10528"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/10532"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/10534"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/10530"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 17, 2019",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.16",
+     "score_url": "https://understat.com/match/10529"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.90",
+     "score_url": "https://understat.com/match/10527"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.17",
+     "score_url": "https://understat.com/match/10529"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.21",
+     "score_url": "https://understat.com/match/10527"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 08, 2019",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.88",
+     "score_url": "https://understat.com/match/10524"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "3.30",
+     "score_url": "https://understat.com/match/10524"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 09, 2019",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.00",
+     "score_url": "https://understat.com/match/10518"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.59",
+     "score_url": "https://understat.com/match/10519"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/10520"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "1.43",
+     "score_url": "https://understat.com/match/10522"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.82",
+     "score_url": "https://understat.com/match/10523"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.36",
+     "score_url": "https://understat.com/match/10517"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.48",
+     "score_url": "https://understat.com/match/10518"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "0.50",
+     "score_url": "https://understat.com/match/10519"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.49",
+     "score_url": "https://understat.com/match/10520"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.98",
+     "score_url": "https://understat.com/match/10522"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.92",
+     "score_url": "https://understat.com/match/10523"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.40",
+     "score_url": "https://understat.com/match/10517"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 10, 2019",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.67",
+     "score_url": "https://understat.com/match/10521"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.65",
+     "score_url": "https://understat.com/match/10525"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.06",
+     "score_url": "https://understat.com/match/10521"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10525"
+    }
+   ]
+  },
+  {
+   "name": "Friday, February 01, 2019",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.14",
+     "score_url": "https://understat.com/match/10513"
+    }
+   ],
+   "away": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.35",
+     "score_url": "https://understat.com/match/10513"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, February 02, 2019",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.28",
+     "score_url": "https://understat.com/match/10508"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/10510"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.70",
+     "score_url": "https://understat.com/match/10511"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/10514"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.64",
+     "score_url": "https://understat.com/match/10515"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/10516"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.87",
+     "score_url": "https://understat.com/match/10508"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.88",
+     "score_url": "https://understat.com/match/10510"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10511"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.11",
+     "score_url": "https://understat.com/match/10514"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10515"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.87",
+     "score_url": "https://understat.com/match/10516"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, February 03, 2019",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "3.80",
+     "score_url": "https://understat.com/match/10512"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/10509"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.20",
+     "score_url": "https://understat.com/match/10512"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "2.53",
+     "score_url": "https://understat.com/match/10509"
+    }
+   ]
+  },
+  {
+   "name": "Friday, January 25, 2019",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.42",
+     "score_url": "https://understat.com/match/10502"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/10502"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, January 26, 2019",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.90",
+     "score_url": "https://understat.com/match/10500"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "2.08",
+     "score_url": "https://understat.com/match/10501"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/10504"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "2.36",
+     "score_url": "https://understat.com/match/10505"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/10506"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.60",
+     "score_url": "https://understat.com/match/10503"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.82",
+     "score_url": "https://understat.com/match/10500"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.78",
+     "score_url": "https://understat.com/match/10501"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.27",
+     "score_url": "https://understat.com/match/10504"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.33",
+     "score_url": "https://understat.com/match/10505"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "3.00",
+     "score_url": "https://understat.com/match/10506"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.65",
+     "score_url": "https://understat.com/match/10503"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, January 27, 2019",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "3.42",
+     "score_url": "https://understat.com/match/10499"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.29",
+     "score_url": "https://understat.com/match/10507"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.36",
+     "score_url": "https://understat.com/match/10499"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.03",
+     "score_url": "https://understat.com/match/10507"
+    }
+   ]
+  },
+  {
+   "name": "Friday, January 18, 2019",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.16",
+     "score_url": "https://understat.com/match/10497"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "3.31",
+     "score_url": "https://understat.com/match/10497"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, January 19, 2019",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "3.20",
+     "score_url": "https://understat.com/match/10491"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.91",
+     "score_url": "https://understat.com/match/10492"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.87",
+     "score_url": "https://understat.com/match/10493"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.52",
+     "score_url": "https://understat.com/match/10494"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/10498"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "0.78",
+     "score_url": "https://understat.com/match/10490"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10491"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.55",
+     "score_url": "https://understat.com/match/10492"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/10493"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.17",
+     "score_url": "https://understat.com/match/10494"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.75",
+     "score_url": "https://understat.com/match/10498"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.02",
+     "score_url": "https://understat.com/match/10490"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, January 20, 2019",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/10495"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "3.03",
+     "score_url": "https://understat.com/match/10496"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.25",
+     "score_url": "https://understat.com/match/10495"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.73",
+     "score_url": "https://understat.com/match/10496"
+    }
+   ]
+  },
+  {
+   "name": "Tuesday, December 18, 2018",
+   "home": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "3.62",
+     "score_url": "https://understat.com/match/10479"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.58",
+     "score_url": "https://understat.com/match/10477"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.37",
+     "score_url": "https://understat.com/match/10478"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.75",
+     "score_url": "https://understat.com/match/10480"
+    }
+   ],
+   "away": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.14",
+     "score_url": "https://understat.com/match/10479"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.33",
+     "score_url": "https://understat.com/match/10477"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.30",
+     "score_url": "https://understat.com/match/10478"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.73",
+     "score_url": "https://understat.com/match/10480"
+    }
+   ]
+  },
+  {
+   "name": "Wednesday, December 19, 2018",
+   "home": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.84",
+     "score_url": "https://understat.com/match/10473"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.81",
+     "score_url": "https://understat.com/match/10472"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.39",
+     "score_url": "https://understat.com/match/10474"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.63",
+     "score_url": "https://understat.com/match/10475"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.61",
+     "score_url": "https://understat.com/match/10476"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "0.68",
+     "score_url": "https://understat.com/match/10473"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/10472"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.91",
+     "score_url": "https://understat.com/match/10474"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "2.02",
+     "score_url": "https://understat.com/match/10475"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.09",
+     "score_url": "https://understat.com/match/10476"
+    }
+   ]
+  },
+  {
+   "name": "Friday, December 21, 2018",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.80",
+     "score_url": "https://understat.com/match/10483"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.52",
+     "score_url": "https://understat.com/match/10483"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, December 22, 2018",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.14",
+     "score_url": "https://understat.com/match/10481"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.82",
+     "score_url": "https://understat.com/match/10484"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.94",
+     "score_url": "https://understat.com/match/10485"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.22",
+     "score_url": "https://understat.com/match/10486"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/10489"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.31",
+     "score_url": "https://understat.com/match/10487"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.32",
+     "score_url": "https://understat.com/match/10481"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.27",
+     "score_url": "https://understat.com/match/10484"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.10",
+     "score_url": "https://understat.com/match/10485"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "2.43",
+     "score_url": "https://understat.com/match/10486"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.13",
+     "score_url": "https://understat.com/match/10489"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.04",
+     "score_url": "https://understat.com/match/10487"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, December 23, 2018",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.38",
+     "score_url": "https://understat.com/match/10488"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.21",
+     "score_url": "https://understat.com/match/10482"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "2.67",
+     "score_url": "https://understat.com/match/10488"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.96",
+     "score_url": "https://understat.com/match/10482"
+    }
+   ]
+  },
+  {
+   "name": "Friday, December 14, 2018",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/10471"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.70",
+     "score_url": "https://understat.com/match/10471"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, December 15, 2018",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.93",
+     "score_url": "https://understat.com/match/10463"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/10466"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "2.01",
+     "score_url": "https://understat.com/match/10468"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.63",
+     "score_url": "https://understat.com/match/10469"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.60",
+     "score_url": "https://understat.com/match/10470"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.89",
+     "score_url": "https://understat.com/match/10464"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.58",
+     "score_url": "https://understat.com/match/10463"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/10466"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/10468"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "4.18",
+     "score_url": "https://understat.com/match/10469"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.80",
+     "score_url": "https://understat.com/match/10470"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.46",
+     "score_url": "https://understat.com/match/10464"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, December 16, 2018",
+   "home": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "4.48",
+     "score_url": "https://understat.com/match/10465"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "3.60",
+     "score_url": "https://understat.com/match/10467"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/10465"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "0.74",
+     "score_url": "https://understat.com/match/10467"
+    }
+   ]
+  },
+  {
+   "name": "Monday, December 03, 2018",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.68",
+     "score_url": "https://understat.com/match/10453"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.39",
+     "score_url": "https://understat.com/match/10453"
+    }
+   ]
+  },
+  {
+   "name": "Friday, December 07, 2018",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.84",
+     "score_url": "https://understat.com/match/10459"
+    }
+   ],
+   "away": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/10459"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, December 08, 2018",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.82",
+     "score_url": "https://understat.com/match/10454"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.45",
+     "score_url": "https://understat.com/match/10455"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/10456"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "2.03",
+     "score_url": "https://understat.com/match/10460"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.52",
+     "score_url": "https://understat.com/match/10462"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.24",
+     "score_url": "https://understat.com/match/10458"
+    }
+   ],
+   "away": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.19",
+     "score_url": "https://understat.com/match/10454"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "0.90",
+     "score_url": "https://understat.com/match/10455"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.77",
+     "score_url": "https://understat.com/match/10456"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.23",
+     "score_url": "https://understat.com/match/10460"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.10",
+     "score_url": "https://understat.com/match/10462"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.13",
+     "score_url": "https://understat.com/match/10458"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, December 09, 2018",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "3.28",
+     "score_url": "https://understat.com/match/10461"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "2.61",
+     "score_url": "https://understat.com/match/10457"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "2.24",
+     "score_url": "https://understat.com/match/10461"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.68",
+     "score_url": "https://understat.com/match/10457"
+    }
+   ]
+  },
+  {
+   "name": "Friday, November 30, 2018",
+   "home": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.11",
+     "score_url": "https://understat.com/match/10452"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.03",
+     "score_url": "https://understat.com/match/10452"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, December 01, 2018",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.69",
+     "score_url": "https://understat.com/match/10446"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.71",
+     "score_url": "https://understat.com/match/10448"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.64",
+     "score_url": "https://understat.com/match/10450"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.54",
+     "score_url": "https://understat.com/match/10451"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.36",
+     "score_url": "https://understat.com/match/10445"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.14",
+     "score_url": "https://understat.com/match/10446"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.65",
+     "score_url": "https://understat.com/match/10448"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "3.29",
+     "score_url": "https://understat.com/match/10450"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.11",
+     "score_url": "https://understat.com/match/10451"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "2.16",
+     "score_url": "https://understat.com/match/10445"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, December 02, 2018",
+   "home": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.40",
+     "score_url": "https://understat.com/match/10447"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/10449"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.63",
+     "score_url": "https://understat.com/match/10447"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.73",
+     "score_url": "https://understat.com/match/10449"
+    }
+   ]
+  },
+  {
+   "name": "Friday, November 23, 2018",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.63",
+     "score_url": "https://understat.com/match/10438"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/10438"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, November 24, 2018",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.81",
+     "score_url": "https://understat.com/match/10436"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.69",
+     "score_url": "https://understat.com/match/10440"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "2.01",
+     "score_url": "https://understat.com/match/10441"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.06",
+     "score_url": "https://understat.com/match/10443"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/10444"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "2.77",
+     "score_url": "https://understat.com/match/10437"
+    }
+   ],
+   "away": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.37",
+     "score_url": "https://understat.com/match/10436"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.68",
+     "score_url": "https://understat.com/match/10440"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "3.22",
+     "score_url": "https://understat.com/match/10441"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.08",
+     "score_url": "https://understat.com/match/10443"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "0.65",
+     "score_url": "https://understat.com/match/10444"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "2.30",
+     "score_url": "https://understat.com/match/10437"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, November 25, 2018",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "2.98",
+     "score_url": "https://understat.com/match/10442"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.71",
+     "score_url": "https://understat.com/match/10439"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.14",
+     "score_url": "https://understat.com/match/10442"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.46",
+     "score_url": "https://understat.com/match/10439"
+    }
+   ]
+  },
+  {
+   "name": "Friday, November 09, 2018",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "2.09",
+     "score_url": "https://understat.com/match/10432"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "2.99",
+     "score_url": "https://understat.com/match/10432"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, November 10, 2018",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.83",
+     "score_url": "https://understat.com/match/10427"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.51",
+     "score_url": "https://understat.com/match/10431"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.86",
+     "score_url": "https://understat.com/match/10433"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "2.90",
+     "score_url": "https://understat.com/match/10434"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.43",
+     "score_url": "https://understat.com/match/10435"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.56",
+     "score_url": "https://understat.com/match/10428"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.14",
+     "score_url": "https://understat.com/match/10427"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "2.74",
+     "score_url": "https://understat.com/match/10431"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.77",
+     "score_url": "https://understat.com/match/10433"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.96",
+     "score_url": "https://understat.com/match/10434"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.55",
+     "score_url": "https://understat.com/match/10435"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.84",
+     "score_url": "https://understat.com/match/10428"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, November 11, 2018",
+   "home": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.55",
+     "score_url": "https://understat.com/match/10429"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.51",
+     "score_url": "https://understat.com/match/10430"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "0.44",
+     "score_url": "https://understat.com/match/10429"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/10430"
+    }
+   ]
+  },
+  {
+   "name": "Friday, November 02, 2018",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.02",
+     "score_url": "https://understat.com/match/10425"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "3.33",
+     "score_url": "https://understat.com/match/10425"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, November 03, 2018",
+   "home": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "2.62",
+     "score_url": "https://understat.com/match/10419"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.44",
+     "score_url": "https://understat.com/match/10421"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.85",
+     "score_url": "https://understat.com/match/10422"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "2.95",
+     "score_url": "https://understat.com/match/10423"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.21",
+     "score_url": "https://understat.com/match/10424"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.79",
+     "score_url": "https://understat.com/match/10418"
+    }
+   ],
+   "away": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/10419"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.19",
+     "score_url": "https://understat.com/match/10421"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.59",
+     "score_url": "https://understat.com/match/10422"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "1.18",
+     "score_url": "https://understat.com/match/10423"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.94",
+     "score_url": "https://understat.com/match/10424"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "3.76",
+     "score_url": "https://understat.com/match/10418"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, November 04, 2018",
+   "home": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "3.16",
+     "score_url": "https://understat.com/match/10426"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.55",
+     "score_url": "https://understat.com/match/10420"
+    }
+   ],
+   "away": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.72",
+     "score_url": "https://understat.com/match/10426"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.26",
+     "score_url": "https://understat.com/match/10420"
+    }
+   ]
+  },
+  {
+   "name": "Friday, October 26, 2018",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.41",
+     "score_url": "https://understat.com/match/10414"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.15",
+     "score_url": "https://understat.com/match/10414"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, October 27, 2018",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "3.57",
+     "score_url": "https://understat.com/match/10410"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.62",
+     "score_url": "https://understat.com/match/10413"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.59",
+     "score_url": "https://understat.com/match/10415"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.25",
+     "score_url": "https://understat.com/match/10416"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.93",
+     "score_url": "https://understat.com/match/10409"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "2.04",
+     "score_url": "https://understat.com/match/10410"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.46",
+     "score_url": "https://understat.com/match/10413"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.16",
+     "score_url": "https://understat.com/match/10415"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.75",
+     "score_url": "https://understat.com/match/10416"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.25",
+     "score_url": "https://understat.com/match/10409"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, October 28, 2018",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/10417"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/10411"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.50",
+     "score_url": "https://understat.com/match/10412"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.00",
+     "score_url": "https://understat.com/match/10417"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.75",
+     "score_url": "https://understat.com/match/10411"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "4.07",
+     "score_url": "https://understat.com/match/10412"
+    }
+   ]
+  },
+  {
+   "name": "Friday, October 19, 2018",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "3.51",
+     "score_url": "https://understat.com/match/10403"
+    }
+   ],
+   "away": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.67",
+     "score_url": "https://understat.com/match/10403"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, October 20, 2018",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "2.39",
+     "score_url": "https://understat.com/match/10401"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.04",
+     "score_url": "https://understat.com/match/10402"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.27",
+     "score_url": "https://understat.com/match/10406"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.82",
+     "score_url": "https://understat.com/match/10407"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.11",
+     "score_url": "https://understat.com/match/10408"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.97",
+     "score_url": "https://understat.com/match/10400"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "1.07",
+     "score_url": "https://understat.com/match/10401"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/10402"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/10406"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.76",
+     "score_url": "https://understat.com/match/10407"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.46",
+     "score_url": "https://understat.com/match/10408"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.40",
+     "score_url": "https://understat.com/match/10400"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, October 21, 2018",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.88",
+     "score_url": "https://understat.com/match/10405"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "3.01",
+     "score_url": "https://understat.com/match/10404"
+    }
+   ],
+   "away": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.43",
+     "score_url": "https://understat.com/match/10405"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.47",
+     "score_url": "https://understat.com/match/10404"
+    }
+   ]
+  },
+  {
+   "name": "Friday, October 05, 2018",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.10",
+     "score_url": "https://understat.com/match/10395"
+    }
+   ],
+   "away": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.35",
+     "score_url": "https://understat.com/match/10395"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, October 06, 2018",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.10",
+     "score_url": "https://understat.com/match/10393"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "2.04",
+     "score_url": "https://understat.com/match/10396"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.57",
+     "score_url": "https://understat.com/match/10398"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/10399"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "0.60",
+     "score_url": "https://understat.com/match/10391"
+    }
+   ],
+   "away": [
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "3.19",
+     "score_url": "https://understat.com/match/10393"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.69",
+     "score_url": "https://understat.com/match/10396"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.00",
+     "score_url": "https://understat.com/match/10398"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.76",
+     "score_url": "https://understat.com/match/10399"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/10391"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, October 07, 2018",
+   "home": [
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "0.50",
+     "score_url": "https://understat.com/match/10397"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.24",
+     "score_url": "https://understat.com/match/10392"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "3.18",
+     "score_url": "https://understat.com/match/10394"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "0.55",
+     "score_url": "https://understat.com/match/10397"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.03",
+     "score_url": "https://understat.com/match/10392"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.39",
+     "score_url": "https://understat.com/match/10394"
+    }
+   ]
+  },
+  {
+   "name": "Tuesday, September 25, 2018",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "2.52",
+     "score_url": "https://understat.com/match/10373"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "2.07",
+     "score_url": "https://understat.com/match/10374"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.38",
+     "score_url": "https://understat.com/match/10375"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.43",
+     "score_url": "https://understat.com/match/10376"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.94",
+     "score_url": "https://understat.com/match/10373"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.99",
+     "score_url": "https://understat.com/match/10374"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.93",
+     "score_url": "https://understat.com/match/10375"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.33",
+     "score_url": "https://understat.com/match/10376"
+    }
+   ]
+  },
+  {
+   "name": "Wednesday, September 26, 2018",
+   "home": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.75",
+     "score_url": "https://understat.com/match/10377"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.19",
+     "score_url": "https://understat.com/match/10378"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "3.13",
+     "score_url": "https://understat.com/match/10379"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.55",
+     "score_url": "https://understat.com/match/10380"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.36",
+     "score_url": "https://understat.com/match/10381"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.48",
+     "score_url": "https://understat.com/match/10377"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.15",
+     "score_url": "https://understat.com/match/10378"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.64",
+     "score_url": "https://understat.com/match/10379"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.12",
+     "score_url": "https://understat.com/match/10380"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/10381"
+    }
+   ]
+  },
+  {
+   "name": "Friday, September 28, 2018",
+   "home": [
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.49",
+     "score_url": "https://understat.com/match/10382"
+    }
+   ],
+   "away": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.41",
+     "score_url": "https://understat.com/match/10382"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, September 29, 2018",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "2.44",
+     "score_url": "https://understat.com/match/10383"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.59",
+     "score_url": "https://understat.com/match/10384"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.77",
+     "score_url": "https://understat.com/match/10385"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.80",
+     "score_url": "https://understat.com/match/10386"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "2.42",
+     "score_url": "https://understat.com/match/10387"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/10388"
+    }
+   ],
+   "away": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.66",
+     "score_url": "https://understat.com/match/10383"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.64",
+     "score_url": "https://understat.com/match/10384"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.47",
+     "score_url": "https://understat.com/match/10385"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "0.85",
+     "score_url": "https://understat.com/match/10386"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.17",
+     "score_url": "https://understat.com/match/10387"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "2.98",
+     "score_url": "https://understat.com/match/10388"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, September 30, 2018",
+   "home": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "2.76",
+     "score_url": "https://understat.com/match/10389"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "4.38",
+     "score_url": "https://understat.com/match/10390"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.61",
+     "score_url": "https://understat.com/match/10389"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.62",
+     "score_url": "https://understat.com/match/10390"
+    }
+   ]
+  },
+  {
+   "name": "Friday, September 21, 2018",
+   "home": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.39",
+     "score_url": "https://understat.com/match/10364"
+    }
+   ],
+   "away": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.24",
+     "score_url": "https://understat.com/match/10364"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, September 22, 2018",
+   "home": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "1.93",
+     "score_url": "https://understat.com/match/10365"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "3.96",
+     "score_url": "https://understat.com/match/10366"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "2.11",
+     "score_url": "https://understat.com/match/10367"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "0.83",
+     "score_url": "https://understat.com/match/10368"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.65",
+     "score_url": "https://understat.com/match/10369"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.36",
+     "score_url": "https://understat.com/match/10370"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.45",
+     "score_url": "https://understat.com/match/10365"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "2.65",
+     "score_url": "https://understat.com/match/10366"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.39",
+     "score_url": "https://understat.com/match/10367"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "2.27",
+     "score_url": "https://understat.com/match/10368"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.56",
+     "score_url": "https://understat.com/match/10369"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "2.59",
+     "score_url": "https://understat.com/match/10370"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, September 23, 2018",
+   "home": [
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.29",
+     "score_url": "https://understat.com/match/10371"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.80",
+     "score_url": "https://understat.com/match/10372"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/10371"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.88",
+     "score_url": "https://understat.com/match/10372"
+    }
+   ]
+  },
+  {
+   "name": "Friday, September 14, 2018",
+   "home": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.96",
+     "score_url": "https://understat.com/match/10355"
+    }
+   ],
+   "away": [
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "0.20",
+     "score_url": "https://understat.com/match/10355"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, September 15, 2018",
+   "home": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.35",
+     "score_url": "https://understat.com/match/10356"
+    },
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "2.81",
+     "score_url": "https://understat.com/match/10357"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "2.24",
+     "score_url": "https://understat.com/match/10358"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.78",
+     "score_url": "https://understat.com/match/10359"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.40",
+     "score_url": "https://understat.com/match/10360"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.40",
+     "score_url": "https://understat.com/match/10361"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.95",
+     "score_url": "https://understat.com/match/10356"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.74",
+     "score_url": "https://understat.com/match/10357"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.59",
+     "score_url": "https://understat.com/match/10358"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "2.20",
+     "score_url": "https://understat.com/match/10359"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "0.78",
+     "score_url": "https://understat.com/match/10360"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "0.73",
+     "score_url": "https://understat.com/match/10361"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, September 16, 2018",
+   "home": [
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "0.70",
+     "score_url": "https://understat.com/match/10362"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.21",
+     "score_url": "https://understat.com/match/10363"
+    }
+   ],
+   "away": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "0.51",
+     "score_url": "https://understat.com/match/10362"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.20",
+     "score_url": "https://understat.com/match/10363"
+    }
+   ]
+  },
+  {
+   "name": "Friday, August 31, 2018",
+   "home": [
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.46",
+     "score_url": "https://understat.com/match/10346"
+    }
+   ],
+   "away": [
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/10346"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, September 01, 2018",
+   "home": [
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.56",
+     "score_url": "https://understat.com/match/10347"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "1.25",
+     "score_url": "https://understat.com/match/10348"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "1.75",
+     "score_url": "https://understat.com/match/10349"
+    },
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "3.48",
+     "score_url": "https://understat.com/match/10350"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "0.88",
+     "score_url": "https://understat.com/match/10351"
+    },
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "0.10",
+     "score_url": "https://understat.com/match/10352"
+    }
+   ],
+   "away": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "0.37",
+     "score_url": "https://understat.com/match/10347"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/10348"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "1.31",
+     "score_url": "https://understat.com/match/10349"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.54",
+     "score_url": "https://understat.com/match/10350"
+    },
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "2.14",
+     "score_url": "https://understat.com/match/10351"
+    },
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "1.71",
+     "score_url": "https://understat.com/match/10352"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, September 02, 2018",
+   "home": [
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "2.25",
+     "score_url": "https://understat.com/match/10353"
+    },
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.60",
+     "score_url": "https://understat.com/match/10354"
+    }
+   ],
+   "away": [
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.44",
+     "score_url": "https://understat.com/match/10353"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "0.57",
+     "score_url": "https://understat.com/match/10354"
+    }
+   ]
+  },
+  {
+   "name": "Friday, August 24, 2018",
+   "home": [
+    {
+     "name": "Bayern Munich",
+     "url": "https://understat.com/team/Bayern_Munich/2018",
+     "score": "3.09",
+     "score_url": "https://understat.com/match/10337"
+    }
+   ],
+   "away": [
+    {
+     "name": "Hoffenheim",
+     "url": "https://understat.com/team/Hoffenheim/2018",
+     "score": "0.70",
+     "score_url": "https://understat.com/match/10337"
+    }
+   ]
+  },
+  {
+   "name": "Saturday, August 25, 2018",
+   "home": [
+    {
+     "name": "Wolfsburg",
+     "url": "https://understat.com/team/Wolfsburg/2018",
+     "score": "1.31",
+     "score_url": "https://understat.com/match/10338"
+    },
+    {
+     "name": "Fortuna Duesseldorf",
+     "url": "https://understat.com/team/Fortuna_Duesseldorf/2018",
+     "score": "1.33",
+     "score_url": "https://understat.com/match/10339"
+    },
+    {
+     "name": "Hertha Berlin",
+     "url": "https://understat.com/team/Hertha_Berlin/2018",
+     "score": "1.03",
+     "score_url": "https://understat.com/match/10340"
+    },
+    {
+     "name": "Werder Bremen",
+     "url": "https://understat.com/team/Werder_Bremen/2018",
+     "score": "1.91",
+     "score_url": "https://understat.com/match/10341"
+    },
+    {
+     "name": "Freiburg",
+     "url": "https://understat.com/team/Freiburg/2018",
+     "score": "1.47",
+     "score_url": "https://understat.com/match/10342"
+    },
+    {
+     "name": "Borussia M.Gladbach",
+     "url": "https://understat.com/team/Borussia_M.Gladbach/2018",
+     "score": "3.34",
+     "score_url": "https://understat.com/match/10343"
+    }
+   ],
+   "away": [
+    {
+     "name": "Schalke 04",
+     "url": "https://understat.com/team/Schalke_04/2018",
+     "score": "1.86",
+     "score_url": "https://understat.com/match/10338"
+    },
+    {
+     "name": "Augsburg",
+     "url": "https://understat.com/team/Augsburg/2018",
+     "score": "0.76",
+     "score_url": "https://understat.com/match/10339"
+    },
+    {
+     "name": "Nuernberg",
+     "url": "https://understat.com/team/Nuernberg/2018",
+     "score": "1.34",
+     "score_url": "https://understat.com/match/10340"
+    },
+    {
+     "name": "Hannover 96",
+     "url": "https://understat.com/team/Hannover_96/2018",
+     "score": "0.84",
+     "score_url": "https://understat.com/match/10341"
+    },
+    {
+     "name": "Eintracht Frankfurt",
+     "url": "https://understat.com/team/Eintracht_Frankfurt/2018",
+     "score": "0.81",
+     "score_url": "https://understat.com/match/10342"
+    },
+    {
+     "name": "Bayer Leverkusen",
+     "url": "https://understat.com/team/Bayer_Leverkusen/2018",
+     "score": "1.06",
+     "score_url": "https://understat.com/match/10343"
+    }
+   ]
+  },
+  {
+   "name": "Sunday, August 26, 2018",
+   "home": [
+    {
+     "name": "Mainz 05",
+     "url": "https://understat.com/team/Mainz_05/2018",
+     "score": "1.29",
+     "score_url": "https://understat.com/match/10344"
+    },
+    {
+     "name": "Borussia Dortmund",
+     "url": "https://understat.com/team/Borussia_Dortmund/2018",
+     "score": "1.96",
+     "score_url": "https://understat.com/match/10345"
+    }
+   ],
+   "away": [
+    {
+     "name": "VfB Stuttgart",
+     "url": "https://understat.com/team/VfB_Stuttgart/2018",
+     "score": "1.08",
+     "score_url": "https://understat.com/match/10344"
+    },
+    {
+     "name": "RasenBallsport Leipzig",
+     "url": "https://understat.com/team/RasenBallsport_Leipzig/2018",
+     "score": "1.46",
+     "score_url": "https://understat.com/match/10345"
+    }
+   ]
+  }
+ ]
+}
